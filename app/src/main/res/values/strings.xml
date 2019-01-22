@@ -1,0 +1,92 @@
+<!-- Default language: Pt-Br -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name" translatable="false">Harry\'s Quiz</string>
+
+    <!-- Question 1 -->
+    <string name="question1">What\'s the name of the 4 Hogwarts\'s houses?</string>
+
+    <!-- Answer 1 Question 1 -->
+    <string name="a1question1">Gryffindor</string>
+
+    <!-- Answer 2 Question 1 -->
+    <string name="a2question1">The Giants</string>
+
+    <!-- Answer 3 Question 1 -->
+    <string name="a3question1">Hufflepuff</string>
+
+    <!-- Answer 4 Question 1 -->
+    <string name="a4question1">Slytherin</string>
+
+    <!-- Answer 5 Question 1 -->
+    <string name="a5question1">Dubledore\'s Army</string>
+
+    <!-- Answer 6 Question 1 -->
+    <string name="a6question1">Ravenclaw</string>
+
+    <!-- Question 2 -->
+    <string name="question2">What\'s the magic to levitate objects?</string>
+
+    <!-- Answer 1 Question 2 -->
+    <string name="a1question2" translatable="false">Accio</string>
+
+    <!-- Answer 2 Question 2 -->
+    <string name="a2question2" translatable="false">Sectumsempra</string>
+
+    <!-- Answer 3 Question 2 -->
+    <string name="a3question2" translatable="false">Wingardium Leviosa</string>
+
+    <!-- Answer 4 Question 2 -->
+    <string name="a4question2" translatable="false">Crucio</string>
+
+    <!-- Question 3 -->
+    <string name="question3">What\'s the name of the act of magically closing one\'s mind?</string>
+
+    <!-- Question 4 -->
+    <string name="question4">Which of these are Hogwarts professors?</string>
+
+    <!-- Answer 1 Question 4 -->
+    <string name="a1question4" translatable="false"> Sirius Black </string>
+
+    <!-- Answer 2 Question 4 -->
+    <string name="a2question4">" Horace Slughorn "</string>
+
+    <!-- Answer 3 Question 4 -->
+    <string name="a3question4">" Sybill Trelawney "</string>
+
+    <!-- Answer 4 Question 4 -->
+    <string name="a4question4" translatable="false"> Tonks </string>
+
+    <!-- Answer 5 Question 4 -->
+    <string name="a5question4" translatable="false"> Hagrid </string>
+
+    <!-- Question 5 -->
+    <string name="question5">What\'s the name of the Magic Minister in Half-Blood Prince book?</string>
+
+    <!-- Answer 1 Question 5 -->
+    <string name="a1question5" translatable="false">Cornelius Fudge</string>
+
+    <!-- Answer 2 Question 5 -->
+    <string name="a2question5" translatable="false">Rufus Scrimgeour</string>
+
+    <!-- Answer 3 Question 5 -->
+    <string name="a3question5" translatable="false">Albus Dumbledore</string>
+
+    <!-- Answer 4 Question 5 -->
+    <string name="a4question5" translatable="false">Armando Dippet</string>
+
+    <!-- Answer Question 3 -->
+    <string name="aQ3">occlumency</string>
+
+    <!-- Error message -->
+    <string name="error1">Answer all the questions</string>
+
+    <!-- Reset button -->
+    <string name="reset">Reset</string>
+
+    <!-- Submit button -->
+    <string name="submit">Submit</string>
+
+    <!-- Final toast message -->
+    <string name="result">You score <xliff:g id="score" example="5">%d</xliff:g> of 5 questions</string>
+</resources>

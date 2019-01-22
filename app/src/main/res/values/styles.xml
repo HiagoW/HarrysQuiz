@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#795548</item>
+        <item name="colorPrimaryDark">#5D4037</item>
+        <item name="colorAccent">#FF5722</item>
+    </style>
+
+    <!-- Default width and height -->
+    <style name="widthHeght">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <!-- Question box -->
+    <style name="questionCard" parent="widthHeght">
+        <item name="android:background">#494646</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Question text -->
+    <style name="question" parent="widthHeght">
+        <item name="android:textSize">36sp</item>
+    </style>
+
+    <!-- Checkboxes -->
+    <style name="checkbox" parent="widthHeght">
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- RadioGroup -->
+    <style name="radioGroup" parent="widthHeght">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- RadioButtons -->
+    <style name="radioButton" parent="widthHeght">
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

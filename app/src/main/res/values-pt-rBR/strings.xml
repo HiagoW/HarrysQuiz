@@ -1,0 +1,90 @@
+<!-- Default language: Pt-Br -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Question 1 -->
+    <string name="question1">Qual o nome das 4 casas de Hogwarts?</string>
+
+    <!-- Answer 1 Question 1 -->
+    <string name="a1question1">Grifinoria</string>
+
+    <!-- Answer 2 Question 1 -->
+    <string name="a2question1">Os Gigantes</string>
+
+    <!-- Answer 3 Question 1 -->
+    <string name="a3question1">Lufa-Lufa</string>
+
+    <!-- Answer 4 Question 1 -->
+    <string name="a4question1">Sonserina</string>
+
+    <!-- Answer 5 Question 1 -->
+    <string name="a5question1">Armada de Dumbledore</string>
+
+    <!-- Answer 6 Question 1 -->
+    <string name="a6question1">Corvinal</string>
+
+    <!-- Question 2 -->
+    <string name="question2">Qual a magia para levitar objetos?</string>
+
+    <!-- Answer 1 Question 2 -->
+    <string name="a1question2">Accio</string>
+
+    <!-- Answer 2 Question 2 -->
+    <string name="a2question2">Sectumsempra</string>
+
+    <!-- Answer 3 Question 2 -->
+    <string name="a3question2">Wingardium Leviosa</string>
+
+    <!-- Answer 4 Question 2 -->
+    <string name="a4question2">Crucio</string>
+
+    <!-- Question 3 -->
+    <string name="question3">"Qual o nome do ato de fechar a mente? "</string>
+
+    <!-- Question 4 -->
+    <string name="question4">Quais destes são professores em Hogwarts? </string>
+
+    <!-- Answer 1 Question 4 -->
+    <string name="a1question4"> Sirius Black </string>
+
+    <!-- Answer 2 Question 4 -->
+    <string name="a2question4"> Horácio Slughorn </string>
+
+    <!-- Answer 3 Question 4 -->
+    <string name="a3question4"> Sibila Trelawney </string>
+
+    <!-- Answer 4 Question 4 -->
+    <string name="a4question4"> Tonks </string>
+
+    <!-- Answer 5 Question 4 -->
+    <string name="a5question4"> Hagrid </string>
+
+    <!-- Question 5 -->
+    <string name="question5">Qual o nome do ministro da magia no livro Enigma do Principe? </string>
+
+    <!-- Answer 1 Question 5 -->
+    <string name="a1question5">Cornelius Fudge</string>
+
+    <!-- Answer 2 Question 5 -->
+    <string name="a2question5">Rufus Scrimgeour</string>
+
+    <!-- Answer 3 Question 5 -->
+    <string name="a3question5">Albus Dumbledore</string>
+
+    <!-- Answer 4 Question 5 -->
+    <string name="a4question5">Armando Dippet</string>
+
+    <!-- Answer Question 3 -->
+    <string name="aQ3">oclumência</string>
+
+    <!-- Error message -->
+    <string name="error1">Preencha todas as respostas</string>
+
+    <!-- Reset button -->
+    <string name="reset">Resetar</string>
+
+    <!-- Submit button -->
+    <string name="submit">Enviar</string>
+
+    <!-- Final toast message -->
+    <string name="result">Você acertou <xliff:g id="score" example="5">%d</xliff:g> de 5 questões</string>
+</resources>
